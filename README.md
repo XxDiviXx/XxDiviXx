@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I’m currently working on learning computer science and further exploring my interests in Data Science, Machine learning, and  Math
+ ## 🌱 I’m currently learning Python for Data Science
 
 <!--
 **XxDiviXx/XxDiviXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
